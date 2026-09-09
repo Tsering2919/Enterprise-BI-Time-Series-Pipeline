@@ -1,0 +1,15 @@
+### 2. The `requirements.txt` File
+*Copy and paste the text below into a file named `requirements.txt` in your VS Code project folder. This list is pulled directly from the libraries you imported in your notebook[cite: 3].*
+
+```text
+pandas==2.1.0
+numpy
+matplotlib
+seaborn
+wordcloud
+scikit-learn
+scipy
+statsmodels
+pdf2image
+pytesseract
+pyspark
